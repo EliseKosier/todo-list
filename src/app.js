@@ -9,7 +9,7 @@ else{
                 ${document.querySelector('#newtask input').value}
             </span>
             <button class="delete">
-                <i class="far fa-trash-alt"></i>
+                <i class="far fa-trash-alt">Delete</i>
             </button>
         </div>
     `;
